@@ -1,3 +1,13 @@
 streamlit
-plotly
-pytz
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+scipy.stats
+sklearn.metrics
+sklearn.model_selection
+statmodels.graphics.tsaplots
+xgboost
+sklearn.metrics
+sklearn.experimental
+sklearn.impute
