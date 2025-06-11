@@ -2,13 +2,9 @@ streamlit
 openpyxl
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 seaborn
-scipy.stats
-sklearn.metrics
-sklearn.model_selection
+scipy
+sklearn
 statmodels.graphics.tsaplots
 xgboost
-sklearn.metrics
-sklearn.experimental
-sklearn.impute
